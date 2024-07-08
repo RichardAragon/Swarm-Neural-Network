@@ -1,5 +1,7 @@
 # Swarm Neural Networks: Revolutionizing Function and API Call Execution
 
+# HuggingFace Demo: https://huggingface.co/spaces/TuringsSolutions/API_Swarm_Caller 
+
 ## Abstract
 
 Swarm Neural Networks (SNNs) represent a novel framework designed to integrate with neural network models, such as large language models (LLMs), to construct and execute function calls and API calls. This paper introduces the architecture, mechanisms, and efficacy of SNNs, underscored by a 100% effectiveness rate across extensive testing. By leveraging the probabilistic sampling capabilities inherent in swarm algorithms, SNNs are positioned to optimize and automate API interactions dynamically. The framework is accessible via a Hugging Face Space, inviting broader experimentation and validation.
